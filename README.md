@@ -92,4 +92,6 @@ Icons used in the mockup are sourced from [StreamlineHQ.com](https://streamlineh
 ## 💡 Final Thoughts:
 This logo design project was curated to explore visual identity options for **Soleira** by leveraging strong thematic concepts and contemporary design styles. Each variation brings a unique narrative — whether it's minimal elegance, expressive boldness, or artistic femininity — giving Soleira flexibility and clarity in shaping its brand presence.
 
+## OUTPUT
+![Image](https://github.com/user-attachments/assets/d7a31125-56bd-42e9-9908-f668d5b90cb5)
 
