@@ -72,7 +72,7 @@ This repository showcases the logo exploration and design mockups for **Soleira*
 - Figma link: https://www.figma.com/design/LaJ08z1w0sPhX9ealWmxiW/Untitled?node-id=16-3&t=qCj0bYxqw8nVIafA-1
 - Assets: Icons used from [StreamlineHQ.com](https://streamlinehq.com)
 - Three concept frames named: `Concept 1 – Shine Minimal`, `Concept 2 – Bold Era`, `Concept 3 – Feminine Texture`
-- Font details and icon attribution included in file
+
 
 ---
 
